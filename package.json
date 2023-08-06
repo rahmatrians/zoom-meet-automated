@@ -1,0 +1,13 @@
+{
+  "name": "zoom-meet-automated",
+  "version": "0.0.1",
+  "description": "ZOOM Meet Joiner Automated (loged in as Anonymous User)",
+  "main": "index.js",
+  "repository": "https://github.com/rahmatrians/zoom-meet-automated.git",
+  "author": "rianzessh",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "puppeteer": "^21.0.1"
+  }
+}
